@@ -188,8 +188,6 @@ Los datos se inicializan con seed data (mockData.ts) la primera vez que se abre 
 Para **reiniciar los datos** a los valores iniciales, abre las DevTools del navegador → Application → Local Storage → selecciona `localhost:5173` → Delete all.
 
 ---
+ Autor
 
-## 👨‍💻 Autor
-
-Proyecto académico — Curso de Desarrollo Web  
-Universidad — 2025
+Samuel Torres montoya 
